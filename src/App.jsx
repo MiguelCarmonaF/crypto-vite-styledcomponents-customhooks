@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import styled from '@emotion/styled'
 import imgcrypto from './assets/imagen-criptos.png'
-import Form from './components/form'
+import Form from './components/Form'
 import Result from './components/result'
 import Spinner from './components/Spinner'
 
